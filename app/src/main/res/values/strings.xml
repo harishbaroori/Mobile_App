@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Scanner</string>
+
+    <string name="hello_blank_fragment">Data is empty</string>
+    <string name="top_file_sizes_tittle">Top</string>
+    <string name="avg_file_sizes_tittle">Average</string>
+    <string name="frequent_file_extns_tittle">Frequency</string>
+</resources>

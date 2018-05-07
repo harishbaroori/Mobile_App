@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.assessment.sdcard.scan.ui.fragment.AvgFragment"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:id="@+id/avg_content_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Average File size:"
+        android:textSize="14sp"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:id="@+id/avg_content_textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_blank_fragment" />
+
+</LinearLayout>
